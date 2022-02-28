@@ -1,0 +1,22 @@
+body
+{
+    background-color: black;
+}
+header
+{
+    height: 110px;
+    width: 1510px;
+}
+section
+{
+    height: 500px;
+    width: 1510px;
+    background-color: gray;
+    background-image:url(sectionpic.jpg);
+    background-repeat:round;
+}
+footer
+{
+    height: 100px;
+    width: 1510px;
+}
